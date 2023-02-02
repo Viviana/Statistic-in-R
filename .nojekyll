@@ -1,3 +1,0 @@
-file.create('.nojekyll')
-# add to git here because will not show up in RStudio
-git add .nojekyll

@@ -15,7 +15,7 @@ script:
   - ./_build.sh
   - ./_deploy.sh
 
-travis encrypt GITHUB_PAT=11AADHNZY0JNBKOTQto0lr_AOEBztEneuHbk1qikIiodi841tCOMLcO2EEyqkCme8k3DFCO2CAoQJE8iTs
+# travis encrypt GITHUB_PAT=s3Wzaro53QnJ8tMNVUwNqQ
 
 
 # configure your name and email if you have not done so
